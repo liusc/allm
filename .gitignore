@@ -1,0 +1,5 @@
+artifacts/
+*.allmpack
+tokenizer.json
+tokenizer_config.json
+.DS_Store
